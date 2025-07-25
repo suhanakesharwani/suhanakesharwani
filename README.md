@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-🔢 **Numbers Tell Stories — I Build the Narrators**  
+🔢 **Numbers Tell Stories. I Build the Narrators**  
 I’m energized by open-ended problems. Whether it’s optimizing models, designing user flows, or automating logic, I enjoy breaking things down and solving them creatively.
 
 I'm always driven by **purpose-led development**. I love taking on complex challenges and simplifying them into real-world, usable solutions especially using AI/ML, data, and thoughtful UI/UX.
