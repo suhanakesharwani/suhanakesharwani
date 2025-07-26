@@ -32,8 +32,7 @@ Whether it's decoding patterns in analytical data or optimizing digital workflow
 **AI/ML:** scikit-learn, Transformers, Pandas, NumPy, Flask  
 **Frontend:** HTML, CSS, ReactJS, Tailwind  
 **Tools:** Git, GitHub, VS Code, PyQt, Streamlit  
-**Databases:** MySQL, SQLite  
-
+**Databases:** MySQL, SQLite, PostgreSQL
 ---
 
 ## 📈 GitHub Stats
