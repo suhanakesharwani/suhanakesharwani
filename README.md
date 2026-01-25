@@ -28,11 +28,13 @@ Whether it's decoding patterns in analytical data or optimizing digital workflow
 
 ## 🔧 Tech Stack
 
-**Languages:** Python, C++, C, JavaScript  
-**AI/ML:** scikit-learn, Transformers, Pandas, NumPy, Flask  
+**Languages:** Python, C++, C, JavaScript
+**Backend:** Django
+**AI/ML:** scikit-learn, Pandas, NumPy, Flask  
 **Frontend:** HTML, CSS, ReactJS, Tailwind  
 **Tools:** Git, GitHub, VS Code, PyQt, Streamlit  
 **Databases:** MySQL, SQLite, PostgreSQL
+
 ---
 
 ## 📈 GitHub Stats
