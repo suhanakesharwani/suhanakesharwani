@@ -7,9 +7,11 @@
 
 ## 👩‍💻 About Me
 
-I’m a passionate full-stack developer, AI enthusiast, and lifelong learner in computer science. I enjoy building projects that combine modern web development, core CS concepts, and intelligent systems to solve real-world problems.
+I’m a passionate full-stack developer, AI enthusiast, and lifelong learner in computer science. I enjoy building projects that combine modern web development, core CS concepts, and intelligent systems to solve real-world problems. 
 
 I’m always curious, love to experiment with new technologies, and I enjoy working on projects that make an impact.
+
+
 ---
 
 ## 🌟 What I Love Doing
