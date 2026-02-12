@@ -25,13 +25,26 @@ I’m always curious, love to experiment with new technologies, and I enjoy work
 ---
 
 ## 🔧 Tech Stack
+**Programming Languages**
+Python, C, C++, JavaScript, SQL  
 
-**Languages:** Python, C++, C, JavaScript
-**Backend:** Django
-**AI/ML:** scikit-learn, Pandas, NumPy, Flask  
-**Frontend:** HTML, CSS, ReactJS, Tailwind  
-**Tools:** Git, GitHub, VS Code, PyQt, Streamlit  
-**Databases:** MySQL, PostgreSQL
+**Web & Backend Development**
+Django, Django REST Framework (DRF), Flask, HTML, CSS, ReactJS, Tailwind CSS  
+
+**Data Science & AI/ML**
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+**GUI & App Development**
+PyQt5, Streamlit  
+
+**Databases**
+MySQL, PostgreSQL  
+
+**Tools & Platforms**
+Git, GitHub, VS Code, Jupyter Notebook, Postman
+
+**Core Concepts**
+Data Structures & Algorithms, Operating Systems, DBMS, API Integration
 
 ---
 
