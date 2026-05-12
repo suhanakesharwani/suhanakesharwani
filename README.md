@@ -1,57 +1,81 @@
-# 👋 Hey there, I’m Suhana Kesharwani!
+# 👋 Hi, I'm Suhana Kesharwani
 
-🎓 Pre-final year BTech IT student @ Maharaja Agrasen Institute of Technology  
-🧠 AI & Machine Learning Enthusiast | 🚀 Passionate Problem Solver | 💬 Fueled by Data  
+### 🎓 Final Year B.Tech IT Student — Maharaja Agrasen Institute of Technology
+### 💻 Software Development Engineer (SDE) Aspirant
+### ⚡ Full-Stack Developer | Problem Solver | AI & ML Enthusiast
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m a passionate full-stack developer, AI enthusiast, and lifelong learner in computer science. I enjoy building projects that combine modern web development, core CS concepts, and intelligent systems to solve real-world problems. 
+I am a software developer passionate about building scalable applications and solving real-world problems through technology. 
 
-I’m always curious, love to experiment with new technologies, and I enjoy working on projects that make an impact.
-
-
----
-
-## 🌟 What I Love Doing
-
-- 🔬 Building **AI tools** that empower people
-- 🧠 Using **machine learning** to detect patterns, predict outcomes, and enhance decisions  
-- 💬 Creating **web apps** that make mine and people's lives easier
-- 🛠️ Designing **clean, responsive UIs** using React
-- 📊 Analyzing messy data and turning it into **actionable insights**  
+My work combines strong computer science fundamentals, full-stack development, and intelligent systems. I enjoy transforming ideas into reliable software, writing clean code, and continuously improving my engineering skills through projects and problem solving.
 
 ---
 
-## 🔧 Tech Stack
-**Programming Languages**
-Python, C, C++, JavaScript, SQL  
+## 🚀 What I Focus On
 
-**Web & Backend Development**
-Django, Django REST Framework (DRF), Flask, HTML, CSS, ReactJS, Tailwind CSS  
-
-**Data Science & AI/ML**
-Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-
-**GUI & App Development**
-PyQt5, Streamlit  
-
-**Databases**
-MySQL, PostgreSQL  
-
-**Tools & Platforms**
-Git, GitHub, VS Code, Jupyter Notebook, Postman
-
-**Core Concepts**
-Data Structures & Algorithms, Operating Systems, DBMS, API Integration
+* 🏗️ Building end-to-end software applications
+* 🧮 Applying Data Structures & Algorithms for optimized solutions
+* ⚙️ Backend development and API design
+* 🌐 Creating responsive web applications using React
+* 🤖 Integrating Machine Learning into practical systems
+* ✍️ Writing maintainable and production-ready code
 
 ---
 
-## 📫 Let’s Connect
+## 🛠️ Tech Stack
 
-I love collaborating on meaningful projects and solving challenges together.  
-If you’re building something awesome or just want to talk tech, AI, or ideas that matter — reach out !
+### **Programming Languages**
+`Python` • `C++` • `C` • `JavaScript` • `SQL`
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/suhanakesharwani/)  
-- 📧 Email: suhanakesharwani@gmail.com
+### **Frontend Development**
+`ReactJS` • `HTML` • `CSS` • `JavaScript` • `Tailwind CSS` 
+
+### **Backend & Frameworks**
+`Flask` • `Django` • `Django REST Framework`
+
+### **Data Science & AI/ML**
+`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib`
+
+### **Databases**
+`MySQL` • `PostgreSQL`
+
+### **Tools & Platforms**
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Postman`
+
+### **Core CS Concepts**
+* Data Structures & Algorithms
+* Operating Systems
+* Database Management Systems (DBMS)
+* Object-Oriented Programming (OOP)
+* API Integration
+
+---
+
+## 🧩 Problem Solving
+
+> **Solved 300+ DSA problems across platforms**
+
+### Strong understanding of:
+* Arrays & Strings
+* Sliding Window & Two Pointers
+* Recursion & Backtracking
+* Trees & Graphs
+
+---
+
+## 📈 Experience
+
+### **Research Internship — Reinforcement Learning**
+**Defence Research & Development Organisation (DRDO)**
+* Worked on reinforcement learning concepts and experimentation.
+* Engineered desktop applications with database connectivity
+
+---
+
+## 📫 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/suhanakesharwani](https://www.linkedin.com/in/suhanakesharwani/)
+* 📧 **Email:** suhanakesharwani@gmail.com
